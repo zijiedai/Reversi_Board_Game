@@ -26,7 +26,6 @@ import javax.swing.JFrame;
  * Faculty of Engineering Guidelines to Academic Honesty:
  *   https://www.erg.cuhk.edu.hk/erg/AcademicHonesty
  *
- * Student Name: Dai Zijie
  * Date        : 2020/11/11
  * 
  * @author based on skeleton code provided by Michael FUNG
