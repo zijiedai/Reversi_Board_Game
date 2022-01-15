@@ -27,7 +27,6 @@ import javax.swing.JFrame;
  *   https://www.erg.cuhk.edu.hk/erg/AcademicHonesty
  *
  * Student Name: Dai Zijie
- * Student ID  : 1155141656
  * Date        : 2020/11/11
  * 
  * @author based on skeleton code provided by Michael FUNG
