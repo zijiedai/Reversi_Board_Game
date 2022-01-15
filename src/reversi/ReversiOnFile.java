@@ -24,8 +24,6 @@ import javax.swing.JOptionPane;
  * Faculty of Engineering Guidelines to Academic Honesty:
  *   https://www.erg.cuhk.edu.hk/erg/AcademicHonesty
  *
- * Student Name: Dai Zijie 
- * Student ID  : 1155141656 
  * Date        : 2020/11/26 
  * 
  */
